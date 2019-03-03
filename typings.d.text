@@ -1,0 +1,4 @@
+declare interface Map<K, V> {}
+declare interface WeakMap<K, V> {}
+declare interface WeakSet<K> {}
+declare interface Set<K> {}
